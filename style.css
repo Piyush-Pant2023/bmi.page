@@ -1,0 +1,12 @@
+.lol{
+    display: flex;
+    justify-content: center;
+    padding: 250px;
+    font-weight: 700;
+    background: linear-gradient(to right, rgb(226, 167, 167),rgb(218, 145, 145),rgb(228, 205, 164));
+    text-align: center;
+    
+}
+.lol :hover{
+    transform: scale(0.8);
+}
